@@ -1,0 +1,1 @@
+# kube-dnsmasq-amd64
